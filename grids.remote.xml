@@ -1,0 +1,30 @@
+<key>login.zetaworlds.com</key>
+        <map>
+        <key>LastModified</key>
+            <date>2017-10-21T00:36:02.66Z</date>
+        <key>gridname</key>
+            <string>ZetaWorlds</string>
+        <key>gridnick</key>
+            <string>ZetaWorlds</string>
+        <key>helperuri</key>
+            <string>http://money.zetaworlds.com/</string>
+        <key>login_identifier_types</key>
+            <array>
+                <string>agent</string>
+                <string>account</string>
+            </array>
+        <key>loginpage</key>
+            <string>http://splash.zetaworlds.com/</string>
+        <key>loginuri</key>
+            <array>
+                <string>http://login.zetaworlds.com/</string>
+            </array>
+        <key>name</key>
+            <string>login.zetaworlds.com</string>
+        <key>platform</key>
+            <string>OpenSim</string>
+        <key>slurl_base</key>
+            <string>hop://login.zetaworlds.com/</string>
+        <key>web_profile_url</key>
+            <undef />
+        </map>
