@@ -696,38 +696,6 @@
         <key>slurl_base</key>
             <string>hop://hg.neverworldgrid.com:8002/</string>
         </map>
-    <key>hg.osgrid.org:80</key>
-        <map>
-        <key>LastModified</key>
-            <date>2018-04-04T00:05:44.52Z</date>
-        <key>gatekeeper</key>
-            <string>hg.osgrid.org:80</string>
-        <key>gridname</key>
-            <string>OSGrid</string>
-        <key>gridnick</key>
-            <string>osgrid</string>
-        <key>helperuri</key>
-            <string>http://helper.osgrid.org/</string>
-        <key>login_identifier_types</key>
-            <array>
-                <string>agent</string>
-                <string>account</string>
-            </array>
-        <key>loginpage</key>
-            <string>http://www.osgrid.org/splash/</string>
-        <key>loginuri</key>
-            <array>
-                <string>http://login.osgrid.org</string>
-            </array>
-        <key>name</key>
-            <string>hg.osgrid.org:80</string>
-        <key>platform</key>
-            <string>OpenSim</string>
-        <key>register</key>
-            <string>http://www.osgrid.org/</string>
-        <key>slurl_base</key>
-            <string>hop://hg.osgrid.org:80/</string>
-        </map>
     <key>hypergrid.org:8002</key>
         <map>
         <key>LastModified</key>
@@ -1325,7 +1293,9 @@
     <key>login.zetaworlds.com</key>
         <map>
         <key>LastModified</key>
-            <date>2017-10-21T00:36:02.66Z</date>
+            <date>2018-04-11T08:58:08.21Z</date>
+        <key>about</key>
+            <string>https://zetaworlds.com/</string>
         <key>gridname</key>
             <string>ZetaWorlds</string>
         <key>gridnick</key>
@@ -1338,19 +1308,21 @@
                 <string>account</string>
             </array>
         <key>loginpage</key>
-            <string>http://splash.zetaworlds.com/</string>
+            <string>http://zetaworlds.com/splash</string>
         <key>loginuri</key>
             <array>
-                <string>http://login.zetaworlds.com/</string>
+                <string>https://login.zetaworlds.com/</string>
             </array>
         <key>name</key>
             <string>login.zetaworlds.com</string>
+        <key>password</key>
+            <string>https://zetaworlds.com/user/forgot</string>
         <key>platform</key>
             <string>OpenSim</string>
+        <key>register</key>
+            <string>http://zetaworlds.com/user/register</string>
         <key>slurl_base</key>
             <string>hop://login.zetaworlds.com/</string>
-        <key>web_profile_url</key>
-            <undef />
         </map>
     <key>meverhagen.nl:8002</key>
         <map>
@@ -1995,36 +1967,6 @@
             <string>http://www.fearlessmysteries.eu:8002/wifi/user/account</string>
         <key>slurl_base</key>
             <string>hop://www.fearlessmysteries.eu:8002/</string>
-        </map>
-    <key>www.outworldz.com:9000</key>
-        <map>
-        <key>LastModified</key>
-            <date>2018-04-04T00:05:31.60Z</date>
-        <key>gridname</key>
-            <string>www.Outworldz.com</string>
-        <key>gridnick</key>
-            <string>www.Outworldz.com</string>
-        <key>helperuri</key>
-            <string>http://www.Outworldz.com:9000</string>
-        <key>login_identifier_types</key>
-            <array>
-                <string>agent</string>
-                <string>account</string>
-            </array>
-        <key>loginpage</key>
-            <string>https://www.outworldz.com/Secondlife/dragons/ride%20&apos;em.gif</string>
-        <key>loginuri</key>
-            <array>
-                <string>http://www.Outworldz.com:9000/</string>
-            </array>
-        <key>name</key>
-            <string>www.outworldz.com:9000</string>
-        <key>platform</key>
-            <string>OpenSim</string>
-        <key>register</key>
-            <string>http://www.Outworldz.com:9000</string>
-        <key>slurl_base</key>
-            <string>hop://www.outworldz.com:9000/</string>
         </map>
     <key>www.p0qp0q.com:9000</key>
         <map>

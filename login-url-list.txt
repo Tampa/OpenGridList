@@ -129,7 +129,6 @@ http://world.dreamnation.net:8002
 http://world.narasnook.com:8900
 http://world.tecola.eu:8002
 http://world.zonanotre.com:8002
-http://www.Outworldz.com:9000
 http://www.emilac.com:8002
 http://www.fearlessmysteries.eu:8002
 http://www.p0qp0q.com:9000

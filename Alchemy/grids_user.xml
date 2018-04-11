@@ -911,8 +911,12 @@
             <array>
                 <string>https://login.zetaworlds.com/</string>
             </array>
+        <key>password</key>
+            <string>https://zetaworlds.com/user/forgot</string>
         <key>platform</key>
             <string>OpenSim</string>
+        <key>register</key>
+            <string>http://zetaworlds.com/user/register</string>
         <key>web_profile_url</key>
             <string>https://login.zetaworlds.com/</string>
         </map>
@@ -1415,34 +1419,6 @@
             <string>http://gergrid.de:8002/</string>
         <key>web_profile_url</key>
             <string>https://www.gergrid.de/</string>
-        </map>
-    <key>www.outworldz.com:9000</key>
-        <map>
-        <key>grid_login_id</key>
-            <string>www.Outworldz.com</string>
-        <key>helper_uri</key>
-            <string>http://www.Outworldz.com:9000</string>
-        <key>keyname</key>
-            <string>www.outworldz.com:9000</string>
-        <key>label</key>
-            <string>www.Outworldz.com</string>
-        <key>login_identifier_types</key>
-            <array>
-                <string>agent</string>
-                <string>account</string>
-            </array>
-        <key>login_page</key>
-            <string>https://www.outworldz.com/Secondlife/dragons/ride%20&apos;em.gif</string>
-        <key>login_uri</key>
-            <array>
-                <string>http://www.Outworldz.com:9000/</string>
-            </array>
-        <key>platform</key>
-            <string>OpenSim</string>
-        <key>register</key>
-            <string>http://www.Outworldz.com:9000</string>
-        <key>web_profile_url</key>
-            <string>https://www.outworldz.com:9000/</string>
         </map>
     <key>www.p0qp0q.com:9000</key>
         <map>

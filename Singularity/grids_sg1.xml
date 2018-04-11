@@ -1400,11 +1400,11 @@
         <key>loginuri</key>
             <string>https://login.zetaworlds.com/</string>
         <key>password</key>
-            <string />
+            <string>https://zetaworlds.com/user/forgot</string>
         <key>platform</key>
             <string>OpenSim</string>
         <key>register</key>
-            <string />
+            <string>http://zetaworlds.com/user/register</string>
         <key>render_compat</key>
             <boolean>1</boolean>
         <key>search</key>
@@ -1412,7 +1412,7 @@
         <key>support</key>
             <string />
         <key>website</key>
-            <string />
+            <string>https://zetaworlds.com/</string>
         </map>
         <map>
         <key>auto_update</key>
@@ -1525,36 +1525,6 @@
             <string>OpenSim</string>
         <key>register</key>
             <string>http://www.p0qp0q.com:9000/wifi/user/account</string>
-        <key>render_compat</key>
-            <boolean>1</boolean>
-        <key>search</key>
-            <string />
-        <key>support</key>
-            <string />
-        <key>website</key>
-            <string />
-        </map>
-        <map>
-        <key>auto_update</key>
-            <boolean>0</boolean>
-        <key>gridname</key>
-            <string>www.Outworldz.com</string>
-        <key>gridnick</key>
-            <string>wwwoutworldzcom</string>
-        <key>helperuri</key>
-            <string>http://www.Outworldz.com:9000</string>
-        <key>locked</key>
-            <boolean>0</boolean>
-        <key>loginpage</key>
-            <string>em.gif</string>
-        <key>loginuri</key>
-            <string>http://www.Outworldz.com:9000/</string>
-        <key>password</key>
-            <string />
-        <key>platform</key>
-            <string>OpenSim</string>
-        <key>register</key>
-            <string>http://www.Outworldz.com:9000</string>
         <key>render_compat</key>
             <boolean>1</boolean>
         <key>search</key>
